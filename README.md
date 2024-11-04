@@ -1,4 +1,4 @@
-I am Shariq Alam
+## I am Shariq Alam
 <!--
 **Sharo-cod/sharo-cod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
