@@ -65,10 +65,10 @@
 
 ---
 
-### 🔥 Contribution Streak
+### 🏙️ 3D Contribution Skyline
 <p align="center">
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=sharo-cod">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharo-cod&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+  <a href="https://skyline.github.com/sharo-cod/2025">
+    <img src="https://img.shields.io/badge/🌆%20View%20My%20GitHub%203D%20Skyline-blueviolet?style=for-the-badge" />
   </a>
 </p>
 
