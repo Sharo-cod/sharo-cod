@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **React, Framer Motion & Three.js**
 - 💼 I’m working on my **Portfolio Website**
 - 💬 Ask me about **JavaScript, React, and UI design**
-- 📫 Reach me at **shariq.alam@example.com**
+- 📫 Reach me at **sharo4192@gmail.com**
 - ⚡ Fun fact: I love turning ideas into visually stunning interfaces!
 
 ---
@@ -24,7 +24,6 @@
   <a href="https://www.linkedin.com/in/yourusername/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:shariq.alam@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/yourusername" target="_blank">
