@@ -65,12 +65,11 @@
 
 ---
 
-### 🏙️ 3D Contribution Skyline
+### 🐍 Contribution Snake
 <p align="center">
-  <a href="https://skyline.github.com/sharo-cod/2025">
-    <img src="https://img.shields.io/badge/🌆%20View%20My%20GitHub%203D%20Skyline-blueviolet?style=for-the-badge" />
-  </a>
+  <img src="https://raw.githubusercontent.com/sharo-cod/sharo-cod/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+
 
 
 ---
