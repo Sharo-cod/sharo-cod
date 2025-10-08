@@ -1,80 +1,89 @@
-<!-- Profile Header -->
+<!-- 🌈 Profile Header -->
 <h1 align="center">
-  Hi 👋, I'm <span style="color:#00C4FF;">Shariq Alam</span>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=35&duration=2500&pause=500&color=00C4FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Shariq+Alam!;Frontend+Developer+💻;React+%7C+Framer+Motion+%7C+Three.js+Enthusiast;Creative+UI+Designer+🎨" alt="Typing Animation" />
 </h1>
-<h3 align="center">💻 A Passionate Frontend Developer from Pakistan 🇵🇰</h3>
+
+<h3 align="center">💻 Passionate Frontend Developer from Pakistan 🇵🇰</h3>
 
 ---
 
-<!-- Typing Animation -->
+<!-- 🌊 Animated Divider -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C4FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%7C+Framer+Motion+%7C+Three.js;Creating+Beautiful+and+Interactive+UIs;Turning+Ideas+into+Code+💡" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4FF,100:7F00FF&height=90&section=header&text=&fontSize=0" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🌱 I’m currently learning **React, Framer Motion & Three.js**  
-- 💼 I’m working on my **Personal Portfolio Website**  
-- 💬 Ask me about **JavaScript, React, and UI/UX Design**  
+- 🌱 Currently learning **React, Framer Motion & Three.js**  
+- 💼 Building my **Personal Portfolio Website**  
+- 💬 Ask me about **JavaScript, React, UI/UX Design, and Animation**  
 - 📫 Reach me at **sharo4192@gmail.com**  
-- ⚡ Fun fact: I love turning ideas into visually stunning interfaces!  
+- ⚡ Fun fact: I love turning creative ideas into **beautiful, animated web experiences** ✨  
 
 ---
 
 ### 🛠️ Languages & Tools
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,git,github,vscode,figma" />
 </p>
 
 ---
 
 ### 🌐 Connect With Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/sharo/shariq-alam" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:sharo4192@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/sharo-cod" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### ⚙️ GitHub Analytics
+<!-- 🌀 Animated Stats Section -->
+<h2 align="center">⚙️ GitHub Analytics</h2>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sharo-cod&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharo-cod&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sharo-cod&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C4FF&icon_color=00C4FF" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharo-cod&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C4FF" height="165" />
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sharo-cod&theme=dracula&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sharo-cod&theme=tokyonight&no-frame=true&margin-w=15&column=6" />
 </p>
 
 ---
 
-### 🌀 Contribution Streak
+### 🔥 Contribution Streak
 <p align="center">
   <a href="https://streak-stats.demolab.com?user=sharo-cod&theme=tokyonight">
-    <img src="https://streak-stats.demolab.com?user=sharo-cod&theme=tokyonight&hide_border=true&v=1" alt="GitHub Streak Stats" />
+    <img src="https://streak-stats.demolab.com?user=sharo-cod&theme=tokyonight&hide_border=true&background=0D1117&fire=00C4FF&ring=00C4FF&currStreakLabel=00C4FF" alt="GitHub Streak Stats" />
   </a>
 </p>
 
-
 ---
 
-### 💡 Quote of the Day
+### 💬 Random Dev Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in" />
 </p>
 
 ---
+
+<!-- 🌈 Animated Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C4FF&height=90&section=footer&text=&fontSize=0" />
+</p>
 
 <h3 align="center">⭐️ From <a href="https://github.com/sharo-cod">sharo-cod</a> with ❤️</h3>
