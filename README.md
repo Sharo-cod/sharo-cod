@@ -67,10 +67,11 @@
 
 ### 🔥 Contribution Streak
 <p align="center">
-  <a href="https://streak-stats.demolab.com?user=sharo-cod&theme=tokyonight">
-    <img src="https://streak-stats.demolab.com?user=sharo-cod&theme=tokyonight&hide_border=true&background=0D1117&fire=00C4FF&ring=00C4FF&currStreakLabel=00C4FF" alt="GitHub Streak Stats" />
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=sharo-cod">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharo-cod&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
   </a>
 </p>
+
 
 ---
 
