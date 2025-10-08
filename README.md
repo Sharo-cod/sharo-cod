@@ -7,7 +7,7 @@
 
 <!-- 🌈 Profile Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=35&duration=2500&pause=500&color=00C4FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Shariq+Alam!;Frontend+Developer+💻;React+%7C+Framer+Motion+%7C+Three.js+Enthusiast;Creative+UI+Designer+🎨" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=35&duration=2500&pause=500&color=00C4FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Shariq+Alam!;Frontend+Developer+💻;React+%7C+Framer+Motion+%7C+Three.js+Enthusiast;Shariq+Alam+🐱‍👤" alt="Typing Animation" />
 </h1>
 
 <h3 align="center">💻 Passionate Frontend Developer from Pakistan 🇵🇰</h3>
@@ -66,10 +66,6 @@
 </p>
 
 ---
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sharo-cod/sharo-cod/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
 
 <p align="center">
   <img src="https://github.com/sharo-cod/github-profile-3d-contrib/blob/main/profile-night-rainbow.svg" alt="3D Contribution Graph" />
@@ -87,7 +83,8 @@
 
 <!-- 🌈 Animated Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C4FF&height=90&section=footer&text=&fontSize=0" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4FF,100:FFFFFF&height=90&section=footer&text=&fontSize=0" />
 </p>
+
 
 <h3 align="center">⭐️ From <a href="https://github.com/sharo-cod">sharo-cod</a> with ❤️</h3>
