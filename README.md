@@ -62,9 +62,11 @@
 
 ### 🌀 Contribution Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sharo-cod&theme=tokyonight&hide_border=true" />](https://streak-stats.demolab.com?user=sharo-cod&theme=tokyonight&hide_border=true
-)
+  <a href="https://streak-stats.demolab.com?user=sharo-cod&theme=tokyonight">
+    <img src="https://streak-stats.demolab.com?user=sharo-cod&theme=tokyonight&hide_border=true&v=1" alt="GitHub Streak Stats" />
+  </a>
 </p>
+
 
 ---
 
