@@ -5,10 +5,15 @@
 
 
 
-<!-- 🌈 Profile Header -->
+
+<!-- 💫 Animated Intro Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=35&duration=2500&pause=500&color=00C4FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Shariq+Alam!;Frontend+Developer+💻;React+%7C+Framer+Motion+%7C+Three.js+Enthusiast;Shariq+Alam+🐱‍👤" alt="Typing Animation" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=35&duration=3000&pause=600&color=00C4FF&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Shariq+Alam!;A+Frontend+Developer+💻;React+%7C+Framer+Motion+%7C+Three.js+Enthusiast;Turning+Ideas+Into+Interactive+Experiences+⚡" 
+    alt="Typing Animation"
+  />
 </h1>
+
 
 <h3 align="center">💻 Passionate Frontend Developer from Pakistan 🇵🇰</h3>
 
